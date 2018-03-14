@@ -1,0 +1,69 @@
+/**
+ * 
+ */
+package stepDefination;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+
+/**
+ * @author Lanre Fela
+ *
+ */
+public class Test_steps {
+	
+	@Given("^I am on the Homepage$")
+	public void i_am_on_the_Homepage() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Given("^I mouse over Flight info$")
+	public void i_mouse_over_Flight_info() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Given("^I FLIGTS & TRAVEL INFO$")
+	public void i_FLIGTS_TRAVEL_INFO() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Given("^I click on  FLIGHT TRACKER$")
+	public void i_click_on_FLIGHT_TRACKER() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Given("^I see an Arrival & Departure Information banner$")
+	public void i_see_an_Arrival_Departure_Information_banner() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Given("^I enter  amsterdam on the depature text field$")
+	public void i_enter_amsterdam_on_the_depature_text_field() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Given("^I enter London on the arrival text field$")
+	public void i_enter_London_on_the_arrival_text_field() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Given("^I click the search button$")
+	public void i_click_the_search_button() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^I should see arrivals information for the current day$")
+	public void i_should_see_arrivals_information_for_the_current_day() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+}

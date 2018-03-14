@@ -1,0 +1,10 @@
+Feature: Test login user
+
+  Scenario: As a registered user i want to login successfully
+    Given I am on the Homepage
+    And I click on My Account Link
+    And I see a welcome message banner
+    When I enter a valid username
+    And I enter a valid password
+    And I click the signin button
+    Then I should be logged in
